@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChuksKitchen.Application/ChuksKitchen.Application.csproj" />
+  <Project Path="ChuksKitchen.Domain/ChuksKitchen.Domain.csproj" />
+  <Project Path="ChuksKitchen.Infrastructure/ChuksKitchen.Infrastructure.csproj" />
+  <Project Path="ChuksKitchen.Presentation/ChuksKitchen.Presentation.csproj" />
+</Solution>

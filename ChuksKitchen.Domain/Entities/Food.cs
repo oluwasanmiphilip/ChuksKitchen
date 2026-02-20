@@ -1,0 +1,1 @@
+﻿public record Food(Guid Id, string Name, string Description, decimal Price, bool IsAvailable);
