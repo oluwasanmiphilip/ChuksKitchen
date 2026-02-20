@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can use on GitHub for your project. It’s structured, developer‑friendly, and highlights the architecture and features clearly:
-
----
-
 # 🍽️ Chuks Kitchen
 
 Chuks Kitchen is a **Clean Architecture ASP.NET Core Web API** project built with **CQRS + MediatR, FluentValidation, EF Core, and Minimal APIs**. It provides a backend for a food ordering system with **user registration, OTP verification, referral codes, cart management, and order tracking**.
