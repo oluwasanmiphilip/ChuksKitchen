@@ -123,8 +123,6 @@ ChuksKitchen/
   - `GET /orders/{id}` → Track order status
 
 
-*Security & Roles*
+**Security & Roles**
 - Customers and Admins are distinguished by role-based access (to be extended with authentication/authorization middleware).
 - Sensitive values (SMTP password, connection strings) should be stored in **User Secrets** or **Environment Variables** in production.
-
-👉 Would you like me to add a **Usage Examples section** with sample request/response JSON (for signup, OTP verification, and placing an order) so developers can test the API quickly after cloning?
